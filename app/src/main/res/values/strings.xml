@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TareaLogin</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="txt_entrar">Entrar</string>
+    <string name="txt_registrar">Registrar</string>
+    <string name="txt_editarUsuario">EDITAR USUARIO</string>
+    <string name="txt_ediUsuario">Usuario</string>
+    <string name="txt_contrasena">Contraseña</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_actualizar">Actualizar</string>
+    <string name="txt_cancelar">Cancelar</string>
+    <string name="txt_mostrarUsuarios">MOSTRAR USUARIOS</string>
+    <string name="txt_crearUsuario">CREAR NUEVO USUARIO</string>
+    <string name="txt_crearU">Usuario</string>
+    <string name="txt_crearC">Contraseña</string>
+    <string name="txt_crearN">Nombre</string>
+    <string name="txt_crearA">Apellido</string>
+    <string name="txt_crearRegistrar">Registrar</string>
+    <string name="txt_crearCancelar">Cancelar</string>
+    <string name="txt_btnEditar">Editar</string>
+    <string name="txt_btnEliminar">Eliminar</string>
+    <string name="txt_btnMostrar">Mostrar</string>
+    <string name="txt_btnSalir">Salir</string>
+    <string name="txt_mansaje">BIENVENIDO ADMIN</string>
+
+</resources>
