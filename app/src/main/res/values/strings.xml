@@ -23,6 +23,6 @@
     <string name="txt_btnEliminar">Eliminar</string>
     <string name="txt_btnMostrar">Mostrar</string>
     <string name="txt_btnSalir">Salir</string>
-    <string name="txt_mansaje">BIENVENIDO ADMIN</string>
+    <string name="txt_mansaje">BIENVENIDO</string>
 
 </resources>
